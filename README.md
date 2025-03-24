@@ -16,7 +16,7 @@ This repository contains research, analysis, and documentation for a proposed **
 ### 📂 Research & Validation  
 - **[Feature Proposal (PPT)](https://drive.google.com/drive/folders/12r9tRLwR_AbXXmuf_Vr5BvzCu5s7riik?usp=sharing):** High-level overview, problem statement, and solution.  
 - **[Customer Interviews](https://drive.google.com/drive/folders/1DVL6P9jN6IinHogIrUsBYR_MHl0kSte2?usp=sharing):** Key insights from user discussions.  
-- **[Survey Results]:** Quantitative data on travel planning behavior.  
+- **[Survey Results](https://docs.google.com/spreadsheets/d/1n1wJ1Sg_z3pxPOZJnvyg-m-4oeNpEGtUBoG70NJ0ViA/edit?usp=sharing):** Quantitative data on travel planning behavior.  
 
 ## Feature Highlights  
 - **Shared Itineraries:** Invite, collaborate, and edit travel plans in real-time.  
